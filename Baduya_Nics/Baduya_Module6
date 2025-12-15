@@ -1,0 +1,10 @@
+portfolio/
+│── index.html        (Home / About Me)
+│── projects.html     (Projects)
+│── contact.html      (Contact / Resume)
+│── style.css         (External CSS)
+│── images/
+    ├── profile.jpg
+    ├── project1.jpg
+    ├── project2.jpg
+    ├── project3.jpg
